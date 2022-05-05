@@ -15,13 +15,13 @@ Database Query1 - Simple Query without parameters <br />
 ![image](https://user-images.githubusercontent.com/83687368/166950834-304c574e-a4a8-405f-87d1-7142268ee6a9.png)
 
 
-Database Query2 - Query With Parameter
+Database Query2 - Query With Parameter <br />
 "select Movie_Name, Lead_Actor, Lead_Actress, Year_Of_Release, Director from Movies;"
 
 ![image](https://user-images.githubusercontent.com/83687368/166951305-b59a6c74-eea6-4818-b396-c9eb095fa527.png)
 
-Database Query3 - Query with Condition Parameter on Lead Actor
-a) "select Movie_Name from Movies where Lead_Actor = "Daniel Radcliffe";"
+Database Query3 - Query with Condition Parameter on Lead Actor <br />
+a) "select Movie_Name from Movies where Lead_Actor = "Daniel Radcliffe";" <br />
 b) "select Movie_Name from Movies where Lead_Actor = "Akshay Kumar";"
 
 ![image](https://user-images.githubusercontent.com/83687368/166952108-1ffa519c-be13-49e1-90e5-60f88ef0afb3.png)
