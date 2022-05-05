@@ -9,8 +9,8 @@ Database login
 ![image](https://user-images.githubusercontent.com/83687368/166950450-1193a552-c8c4-4fab-b53d-2b5a2f07cd58.png)
 
 
-Database Query1 - Simple Query without parameters
-"Select * from Movies;"
+Database Query1 - Simple Query without parameters\n
+"select * from Movies;"
 
 ![image](https://user-images.githubusercontent.com/83687368/166950834-304c574e-a4a8-405f-87d1-7142268ee6a9.png)
 
